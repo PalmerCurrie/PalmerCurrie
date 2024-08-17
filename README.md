@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @PalmerCurrie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello, I'm Palmer Currie!
+## 🚀 About Me
 
-<!---
-PalmerCurrie/PalmerCurrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌍 **Location**: Vancouver, Canada
+- 🎓 **Education**: UBC Computer Science Third Year
+- 🏀 **Hobbies**: I enjoy playing and watching basketball and hockey
+- 🧩 I can solve a Rubik's cube in under 10 seconds
+
+## 🔗 Links
+
+- [Check out my Personal Website!](https://www.palmercurrie.com)
+- [LinkedIn](https://www.linkedin.com/in/palmercurrie/)
